@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_PWC/static/css/main.7ce12923.css",
+    "main.js": "/react_PWC/static/js/main.d1aecfdf.js",
+    "static/js/787.370d4dcd.chunk.js": "/react_PWC/static/js/787.370d4dcd.chunk.js",
+    "index.html": "/react_PWC/index.html",
+    "main.7ce12923.css.map": "/react_PWC/static/css/main.7ce12923.css.map",
+    "main.d1aecfdf.js.map": "/react_PWC/static/js/main.d1aecfdf.js.map",
+    "787.370d4dcd.chunk.js.map": "/react_PWC/static/js/787.370d4dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce12923.css",
+    "static/js/main.d1aecfdf.js"
+  ]
+}
